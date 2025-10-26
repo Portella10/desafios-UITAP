@@ -1,0 +1,22 @@
+{
+  "name": "desafios-uitap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Portella10/desafios-UITAP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Portella10/desafios-UITAP/issues"
+  },
+  "homepage": "https://github.com/Portella10/desafios-UITAP#readme",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.5.1"
+  }
+}
